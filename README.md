@@ -3,5 +3,5 @@ Docker image for PostgreSQL-based web projects.
 
 Installed software:
 
-* psycopg2-binary
+* psycopg2
 * gunicorn
